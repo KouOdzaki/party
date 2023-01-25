@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+    margin: 10px;
+    font-size: 20px;
+}
+
+header {
+    border: 5px solid mediumblue;
+    border-radius: 15px;
+    padding: 10px;
+    
+}
+
+header b {
+    color: navy;
+}
+
+header a {
+    color: white;
+    background-color: MidnightBlue; 
+    border-radius: 7px;
+    margin: 10px;
+    padding: 7px;
+    text-decoration: none;
+}
+
+h1 {
+    background-color: LightBlue;
+    color: MidnightBlue;
+    text-align: center;
+    border-radius: 15px;
+    font-family: "calibri";
+    text-transform: uppercase;
+}
+
+.emoji{
+    width: 40px;
+    height: 40px;
+    margin: 7px;
+}
+
+footer {
+    background-color: MistyRose;
+    border: 5px solid Bisque;
+}
+
+footer p {
+    background-color: Seashell;
+    border: 5px solid Bisque;
+    margin: 7px;
+}
+
+nav {
+    border: 5px solid LightBlue;
+    border-radius: 13px;
+}
+
+nav a {
+    text-decoration: none;
+    margin: 20px;
+    font-size: 15px;
+}
+
+.fireworks{
+    border: 5px solid navy;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.offer{
+    color: blue;
+    font-size: 40px;
+    font-family: calibri;
+}
+
+.contacts{
+    border: 3px solid navy;
+    text-decoration: none;
+    color: navy;
+    padding:10px;
+}
